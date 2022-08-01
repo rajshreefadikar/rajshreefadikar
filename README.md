@@ -1,7 +1,7 @@
 <div align="center">
 <h1>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Rajshree Fadikar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
  
-![GitHub followers](https://img.shields.io/github/followers/priyanshmehta22?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/rajshreefadikar?style=social) 
 
 </div>
 <h3 align="center">I'm a 3rd year Student at Vellore Institute of Technology, Vellore. </h3>
